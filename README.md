@@ -1,2 +1,2 @@
 # glitch
- Texto comefeito Glitch
+ Texto come feito Glitch
